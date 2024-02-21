@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8bc82533-e74d-4bbc-82b7-da35a9d0cd4f" name="Changes" comment="He creado los primeros programas un poco más complejos">
-      <change afterPath="$PROJECT_DIR$/Primeros_Programas_en Python/4_Maquina_de_Rellenar_Gasolina.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="8bc82533-e74d-4bbc-82b7-da35a9d0cd4f" name="Changes" comment="He creado la primera aplicacion utilizando las claves y los metodos" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -195,7 +192,7 @@
       <updated>1708365664966</updated>
       <workItem from="1708365667213" duration="752000" />
       <workItem from="1708531123824" duration="10000" />
-      <workItem from="1708532311053" duration="4143000" />
+      <workItem from="1708532311053" duration="4532000" />
     </task>
     <task id="LOCAL-00001" summary="Primera version">
       <option name="closed" value="true" />
@@ -213,7 +210,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708534749078</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="He creado la primera aplicacion utilizando las claves y los metodos">
+      <option name="closed" value="true" />
+      <created>1708536852032</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1708536852032</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -233,10 +238,11 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Primera version" />
     <MESSAGE value="He creado los primeros programas un poco más complejos" />
-    <option name="LAST_COMMIT_MESSAGE" value="He creado los primeros programas un poco más complejos" />
+    <MESSAGE value="He creado la primera aplicacion utilizando las claves y los metodos" />
+    <option name="LAST_COMMIT_MESSAGE" value="He creado la primera aplicacion utilizando las claves y los metodos" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Primer_proyecto_de_Python$4_Maquina_de_Rellenar_Gasolina.coverage" NAME="4_Maquina_de_Rellenar_Gasolina Coverage Results" MODIFIED="1708536457227" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Primeros_Programas_en Python" />
+    <SUITE FILE_PATH="coverage/Primer_proyecto_de_Python$4_Maquina_de_Rellenar_Gasolina.coverage" NAME="4_Maquina_de_Rellenar_Gasolina Coverage Results" MODIFIED="1708536780584" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Primeros_Programas_en Python" />
     <SUITE FILE_PATH="coverage/Primer_proyecto_de_Python$Hola_Mundo.coverage" NAME="Hola_Mundo Coverage Results" MODIFIED="1708366153558" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Primeros_Programas_en Python" />
     <SUITE FILE_PATH="coverage/Primer_proyecto_de_Python$3_Sumas_del_0_al_100.coverage" NAME="3_Sumas_del_0_al_100 Coverage Results" MODIFIED="1708534657496" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Primeros_Programas_en Python" />
     <SUITE FILE_PATH="coverage/Primer_proyecto_de_Python$2_Valor_Absoluto.coverage" NAME="2_Valor_Absoluto Coverage Results" MODIFIED="1708533756647" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Primeros_Programas_en Python" />
