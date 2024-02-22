@@ -4,7 +4,8 @@ eleccion =int(input("""Elija la figura que quieres calcular el area:
 1. Cuadrado
 2. Triangulo
 3. Circulo
-4. Rombo"""))
+4. Rombo
+"""))
 
 def Cuadrado():
     lado=float(input("Ingrese el tamaño de su lado"))
