@@ -1,6 +1,6 @@
 """Este programa es una maquina de gasolina dependiendo de la gasolina que pidas te cobrara de una forma diferente"""
 litros = int(input("Cuanos litros de gasolina quieres: "))
-elecion = int(input("""Que tipo quieres:
+eleccion = int(input("""Que tipo quieres:
 1. Diesel
 2. Super92
 3. Sin_Plomo_95
