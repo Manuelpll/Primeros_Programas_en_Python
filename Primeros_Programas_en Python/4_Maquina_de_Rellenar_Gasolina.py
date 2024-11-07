@@ -41,4 +41,4 @@ menu = {
     3: Sin_Plomo_95
 }#Claves para llamar a los metodos
 
-menu.get(elecion, default)()
+menu.get(eleccion, default)()
