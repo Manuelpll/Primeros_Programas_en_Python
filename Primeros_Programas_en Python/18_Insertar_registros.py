@@ -13,8 +13,14 @@ ConsultaAlta = ("INSERT INTO emp "
                "VALUES (%s, %s, %s, %s, %s, %s, %s, %s)")
 
 
-datosEmpleados = (1111,'Benito', 'Programador',7566,  date(1976, 6, 4),100000,100,20)
+datosEmpleados = (2290,'Benito', 'Programador',7566,  date(1976, 6, 4),100000,100,20)
 
+
+cursor.execute(ConsultaAlta, datosEmpleados)
+
+bd_conexion.commit()
+
+datosEmpleados = (2291,'Ana', 'Diseñadora',7567,  date(1990, 8, 9),100200,120,20)
 
 cursor.execute(ConsultaAlta, datosEmpleados)
 
