@@ -53,9 +53,11 @@ herb_fido.owner = uncle_bob
 herb_fido.save()
 
 # Retrieve a person by name and print their name
+
 grandma = Person.select().where(Person.name == 'Grandma L.').get()
 
 # Another way to retrieve a person by name
+print('-------------------------------------')
 grandma = Person.get(Person.name == 'Grandma L.')
 
 # Print the names of all persons
@@ -67,6 +69,7 @@ for person in Person.select():
 # Herb
 
 # Query to get pets with animal_type 'cat'
+print('-------------------------------------')
 query = Pet.select().where(Pet.animal_type == 'cat')
 for pet in query:
     print(pet.name, pet.owner.name)
@@ -75,6 +78,7 @@ for pet in query:
 # Mittens Jr Herb
 
 # Join Pet and Person tables to get pets with animal_type 'cat'
+print('-------------------------------------')
 query = (Pet
          .select(Pet, Person)
          .join(Person)  # Join with the Person table
@@ -87,6 +91,7 @@ for pet in query:
 # Mittens Jr Herb
 
 # Print all pets owned by Bob using a join
+print('-------------------------------------')
 for pet in Pet.select().join(Person).where(Person.name == 'Bob'):
     print(pet.name)
 # Output:
@@ -94,22 +99,26 @@ for pet in Pet.select().join(Person).where(Person.name == 'Bob'):
 # Fido
 
 # Print pets owned by uncle_bob using the ForeignKey reference
+print('-------------------------------------')
 for pet in Pet.select().where(Pet.owner == uncle_bob):
     print(pet.name)
 # Output:
 # Kitty
 # Fido
+print('-------------------------------------')
 for pet in Pet.select().where(Pet.owner == uncle_bob).order_by(Pet.name):
   print(pet.name)
 # # prints:
 # # Fido
 # # Kitty
+print('-------------------------------------')
 for person in Person.select().order_by(Person.birthday.desc()):
    print(person.name, person.birthday)
 # # prints:
 # # Bob 1960-01-15
 # # Herb 1950-05-05
 # # Grandma L. 1935-03-01
+print('-------------------------------------')
 d1940 = date(1940, 1, 1)
 d1960 = date(1960, 1, 1)
 query = (Person
@@ -121,6 +130,7 @@ for person in query:
 #  prints:
 #  Bob 1960-01-15
 #  Grandma L. 1935-03-01
+print('-------------------------------------')
 query = (Person
          .select()
           .where(Person.birthday.between(d1940, d1960)))
@@ -130,12 +140,14 @@ for person in query:
 
 #  prints:
 #  Herb 1950-05-05
+print('-------------------------------------')
 for person in Person.select():
   print(person.name, person.pets.count(), 'pets')
 #  prints:
 # Bob 2 pets
 # Grandma L. 0 pets
 #  Herb 1 pets
+print('-------------------------------------')
 query = (Person
         .select(Person, fn.COUNT(Pet.id).alias('pet_count'))
           .join(Pet, JOIN.LEFT_OUTER)  # include people without pets.
@@ -149,4 +161,44 @@ for person in query:
 # # prints:
 # # Bob 2 pets
 # # Grandma L. 0 pets
-# # Herb 1 pets
+# # Herb 1 pet
+print('-------------------------------------')
+squery = (Person
+         .select(Person, Pet)
+         .join(Pet, JOIN.LEFT_OUTER)
+         .order_by(Person.name, Pet.name))
+for person in query:
+# We need to check if they have a pet instance attached, since not all
+#     # people have pets.
+   if hasattr(person, 'pet'):
+      print(person.name, person.pet.name)
+   else:
+    print(person.name, 'no pets')
+
+#  prints:
+#  Bob Fido
+#  Bob Kitty
+#  Grandma L. no pets
+#  Herb Mittens Jr
+print('-------------------------------------')
+query = Person.select().order_by(Person.name).prefetch(Pet)
+for person in query:
+    print(person.name)
+    for pet in person.pets:
+       print('  *', pet.name)
+
+# # prints:
+# # Bob
+# #   * Kitty
+# #   * Fido
+# # Grandma L.
+# # Herb
+# #   * Mittens Jr
+print('-------------------------------------')
+expression = fn.Lower(fn.Substr(Person.name, 1, 1)) == 'g'
+for person in Person.select().where(expression):
+     print(person.name)
+
+# # prints:
+# # Grandma L.
+db.close()
