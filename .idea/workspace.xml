@@ -4,21 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8bc82533-e74d-4bbc-82b7-da35a9d0cd4f" name="Changes" comment="20/11/24">
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/13bf5e1e-c271-4990-a29c-beaa83df718d.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/13bf5e1e-c271-4990-a29c-beaa83df718d/storage_v2/_src_/schema/main.uQUzAA.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/34cf302b-c286-4134-9538-83b08ffa48da.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/34cf302b-c286-4134-9538-83b08ffa48da/storage_v2/_src_/schema/main.uQUzAA.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/babdf7be-6909-40d9-ac16-cf765ce36549.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/babdf7be-6909-40d9-ac16-cf765ce36549/storage_v2/_src_/schema/main.uQUzAA.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/cc1bd51b-7dd4-4e61-9577-0a3b8edf6ff7.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/cc1bd51b-7dd4-4e61-9577-0a3b8edf6ff7/storage_v2/_src_/schema/main.uQUzAA.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/dd68ffbd-8ff2-46b3-86fe-f953b2e3d1f3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/dd68ffbd-8ff2-46b3-86fe-f953b2e3d1f3/storage_v2/_src_/schema/main.uQUzAA.meta" beforeDir="false" />
+    <list default="true" id="8bc82533-e74d-4bbc-82b7-da35a9d0cd4f" name="Changes" comment="21/11/24">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Primeros_Programas_en Python/22_Peewee_Sqlite_Introducion.py" beforeDir="false" afterPath="$PROJECT_DIR$/Primeros_Programas_en Python/22_Peewee_Sqlite_Introducion.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Primeros_Programas_en Python/people.db" beforeDir="false" afterPath="$PROJECT_DIR$/Primeros_Programas_en Python/people.db" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,7 +84,7 @@
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/aludam2/PycharmProjects/4inrow-main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/aludam2/Downloads/ipnd-project-rock-paper-scissors-master/ipnd-project-rock-paper-scissors-master&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -270,7 +257,8 @@
       <workItem from="1731660430967" duration="400000" />
       <workItem from="1731660977867" duration="1529000" />
       <workItem from="1732099174825" duration="6346000" />
-      <workItem from="1732174508897" duration="5039000" />
+      <workItem from="1732174508897" duration="5572000" />
+      <workItem from="1732698946829" duration="176000" />
     </task>
     <task id="LOCAL-00001" summary="Primera version">
       <option name="closed" value="true" />
@@ -376,7 +364,23 @@
       <option name="project" value="LOCAL" />
       <updated>1732105306141</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="21/11/24">
+      <option name="closed" value="true" />
+      <created>1732181453123</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1732181453123</updated>
+    </task>
+    <task id="LOCAL-00015" summary="21/11/24">
+      <option name="closed" value="true" />
+      <created>1732181509565</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1732181509565</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -412,7 +416,8 @@
     <MESSAGE value="Programas hechos en  Aceso a Datos" />
     <MESSAGE value="Avances en Acceso a datos" />
     <MESSAGE value="20/11/24" />
-    <option name="LAST_COMMIT_MESSAGE" value="20/11/24" />
+    <MESSAGE value="21/11/24" />
+    <option name="LAST_COMMIT_MESSAGE" value="21/11/24" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
