@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8bc82533-e74d-4bbc-82b7-da35a9d0cd4f" name="Changes" comment="21/11/24">
+    <list default="true" id="8bc82533-e74d-4bbc-82b7-da35a9d0cd4f" name="Changes" comment="27/11/24">
+      <change afterPath="$PROJECT_DIR$/Primeros_Programas_en Python/23_Modelo_de_Tablas_Peewee.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/e2dd851f-2de1-4d45-a1d9-1b45bacdebd8.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/e2dd851f-2de1-4d45-a1d9-1b45bacdebd8.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/e2dd851f-2de1-4d45-a1d9-1b45bacdebd8/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/e2dd851f-2de1-4d45-a1d9-1b45bacdebd8/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/e2dd851f-2de1-4d45-a1d9-1b45bacdebd8/storage_v2/_src_/schema/mysql.osA4Bg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/e2dd851f-2de1-4d45-a1d9-1b45bacdebd8/storage_v2/_src_/schema/mysql.osA4Bg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/e2dd851f-2de1-4d45-a1d9-1b45bacdebd8/storage_v2/_src_/schema/performance_schema.kIw0nw.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/e2dd851f-2de1-4d45-a1d9-1b45bacdebd8/storage_v2/_src_/schema/performance_schema.kIw0nw.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/e2dd851f-2de1-4d45-a1d9-1b45bacdebd8/storage_v2/_src_/schema/sys.zb4BAA.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/e2dd851f-2de1-4d45-a1d9-1b45bacdebd8/storage_v2/_src_/schema/sys.zb4BAA.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,60 +56,61 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.10_Creacion_Listas.executor&quot;: &quot;Run&quot;,
-    &quot;Python.11_Calculo_letra_DNI.executor&quot;: &quot;Run&quot;,
-    &quot;Python.14_Inciacion_a_Objetos.executor&quot;: &quot;Run&quot;,
-    &quot;Python.15_Calcular_letra_DNI_con_Clases.executor&quot;: &quot;Run&quot;,
-    &quot;Python.16.5_Consultas_con_parametros.executor&quot;: &quot;Run&quot;,
-    &quot;Python.16_Acceso_a_Datos.executor&quot;: &quot;Run&quot;,
-    &quot;Python.17_Cosulta_con_varios_parametros.executor&quot;: &quot;Run&quot;,
-    &quot;Python.18_Insertar_registros.executor&quot;: &quot;Run&quot;,
-    &quot;Python.19_Eliminar_registros.executor&quot;: &quot;Run&quot;,
-    &quot;Python.1_Bascula.executor&quot;: &quot;Run&quot;,
-    &quot;Python.20_Modificar_Registros.executor&quot;: &quot;Run&quot;,
-    &quot;Python.21.5_Peewee_Prueba_SQL.executor&quot;: &quot;Run&quot;,
-    &quot;Python.21_Peewee_Prueba.executor&quot;: &quot;Run&quot;,
-    &quot;Python.21_Peewee_Prueba_SQL (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.21_Peewee_Prueba_Sqlite (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.22_Peewee_Sqlite_Introducion.executor&quot;: &quot;Run&quot;,
-    &quot;Python.2_Valor_Absoluto.executor&quot;: &quot;Run&quot;,
-    &quot;Python.3_Sumas_del_0_al_100.executor&quot;: &quot;Run&quot;,
-    &quot;Python.4_Maquina_de_Rellenar_Gasolina.executor&quot;: &quot;Run&quot;,
-    &quot;Python.5_Calculo_de_posiciones.executor&quot;: &quot;Run&quot;,
-    &quot;Python.6_Conversor_de_Diferentes_Monedas.executor&quot;: &quot;Run&quot;,
-    &quot;Python.7_Calculo_de_Diferentes_Areas_de_figuras.executor&quot;: &quot;Run&quot;,
-    &quot;Python.8_Determinar_la_edad_de_la_persona.executor&quot;: &quot;Run&quot;,
-    &quot;Python.9_Serie_Fibonacci.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Ciclista.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Hola_Mundo.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Prueba.executor&quot;: &quot;Run&quot;,
-    &quot;Python.__init__.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/aludam2/Downloads/ipnd-project-rock-paper-scissors-master/ipnd-project-rock-paper-scissors-master&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.10_Creacion_Listas.executor": "Run",
+    "Python.11_Calculo_letra_DNI.executor": "Run",
+    "Python.14_Inciacion_a_Objetos.executor": "Run",
+    "Python.15_Calcular_letra_DNI_con_Clases.executor": "Run",
+    "Python.16.5_Consultas_con_parametros.executor": "Run",
+    "Python.16_Acceso_a_Datos.executor": "Run",
+    "Python.17_Cosulta_con_varios_parametros.executor": "Run",
+    "Python.18_Insertar_registros.executor": "Run",
+    "Python.19_Eliminar_registros.executor": "Run",
+    "Python.1_Bascula.executor": "Run",
+    "Python.20_Modificar_Registros.executor": "Run",
+    "Python.21.5_Peewee_Prueba_SQL.executor": "Run",
+    "Python.21_Peewee_Prueba.executor": "Run",
+    "Python.21_Peewee_Prueba_SQL (1).executor": "Run",
+    "Python.21_Peewee_Prueba_Sqlite (1).executor": "Run",
+    "Python.22_Peewee_Sqlite_Introducion.executor": "Run",
+    "Python.23_Modelo_de_Tablas_Peewee.executor": "Run",
+    "Python.2_Valor_Absoluto.executor": "Run",
+    "Python.3_Sumas_del_0_al_100.executor": "Run",
+    "Python.4_Maquina_de_Rellenar_Gasolina.executor": "Run",
+    "Python.5_Calculo_de_posiciones.executor": "Run",
+    "Python.6_Conversor_de_Diferentes_Monedas.executor": "Run",
+    "Python.7_Calculo_de_Diferentes_Areas_de_figuras.executor": "Run",
+    "Python.8_Determinar_la_edad_de_la_persona.executor": "Run",
+    "Python.9_Serie_Fibonacci.executor": "Run",
+    "Python.Ciclista.executor": "Run",
+    "Python.Hola_Mundo.executor": "Run",
+    "Python.Prueba.executor": "Run",
+    "Python.__init__.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/aludam2/Downloads/ipnd-project-rock-paper-scissors-master/ipnd-project-rock-paper-scissors-master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;DatabaseDriversLRU&quot;: [
-      &quot;oracle&quot;,
-      &quot;mariadb&quot;,
-      &quot;mysql&quot;,
-      &quot;sqlite&quot;
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "oracle",
+      "mariadb",
+      "mysql",
+      "sqlite"
     ]
   }
-}</component>
-  <component name="RunManager" selected="Python.22_Peewee_Sqlite_Introducion">
+}]]></component>
+  <component name="RunManager" selected="Python.23_Modelo_de_Tablas_Peewee">
     <configuration name="21_Peewee_Prueba_SQL (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Primer_proyecto_de_Python" />
       <option name="ENV_FILES" value="" />
@@ -172,29 +180,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="21_Peewee_Prueba_Sqlite" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Primer_proyecto_de_Python" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Primeros_Programas_en Python" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:\Users\aludam2\PycharmProjects\Primeros_Programas_en_Python\Primeros_Programas_en Python\21_Peewee_Prueba_Sqlite.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="22_Peewee_Sqlite_Introducion" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Primer_proyecto_de_Python" />
       <option name="ENV_FILES" value="" />
@@ -218,13 +203,36 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="23_Modelo_de_Tablas_Peewee" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Primer_proyecto_de_Python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Primeros_Programas_en Python" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Primeros_Programas_en Python/23_Modelo_de_Tablas_Peewee.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.23_Modelo_de_Tablas_Peewee" />
         <item itemvalue="Python.22_Peewee_Sqlite_Introducion" />
         <item itemvalue="Python.21_Peewee_Prueba_SQL (1)" />
         <item itemvalue="Python.21_Peewee_Prueba_SQL" />
         <item itemvalue="Python.21_Peewee_Prueba_Sqlite (1)" />
-        <item itemvalue="Python.21_Peewee_Prueba_Sqlite" />
       </list>
     </recent_temporary>
   </component>
@@ -259,6 +267,8 @@
       <workItem from="1732099174825" duration="6346000" />
       <workItem from="1732174508897" duration="5572000" />
       <workItem from="1732698946829" duration="176000" />
+      <workItem from="1732710155093" duration="259000" />
+      <workItem from="1732779301386" duration="5794000" />
     </task>
     <task id="LOCAL-00001" summary="Primera version">
       <option name="closed" value="true" />
@@ -380,7 +390,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732181509565</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="27/11/24">
+      <option name="closed" value="true" />
+      <created>1732710395865</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1732710395865</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -417,7 +435,8 @@
     <MESSAGE value="Avances en Acceso a datos" />
     <MESSAGE value="20/11/24" />
     <MESSAGE value="21/11/24" />
-    <option name="LAST_COMMIT_MESSAGE" value="21/11/24" />
+    <MESSAGE value="27/11/24" />
+    <option name="LAST_COMMIT_MESSAGE" value="27/11/24" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -461,6 +480,7 @@
     <SUITE FILE_PATH="coverage/Primeros_Programas_en_Python$9_Serie_Fibonacci.coverage" NAME="9_Serie_Fibonacci Coverage Results" MODIFIED="1730965152207" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Primeros_Programas_en Python" />
     <SUITE FILE_PATH="coverage/Primeros_Programas_en_Python$17_Cosulta_con_varios_parametros.coverage" NAME="17_Cosulta_con_varios_parametros Coverage Results" MODIFIED="1731500000398" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Primeros_Programas_en Python" />
     <SUITE FILE_PATH="coverage/Primeros_Programas_en_Python$21_Peewee_Prueba_Sqlite__1_.coverage" NAME="21_Peewee_Prueba_Sqlite (1) Coverage Results" MODIFIED="1732102975809" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Primeros_Programas_en Python" />
+    <SUITE FILE_PATH="coverage/Primeros_Programas_en_Python$23_Modelo_de_Tablas_Peewee.coverage" NAME="23_Modelo_de_Tablas_Peewee Coverage Results" MODIFIED="1732784409364" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Primeros_Programas_en Python" />
     <SUITE FILE_PATH="coverage/Primeros_Programas_en_Python$16_Acceso_a_Datos.coverage" NAME="16_Acceso_a_Datos Coverage Results" MODIFIED="1731053856833" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Primeros_Programas_en Python" />
   </component>
 </project>
