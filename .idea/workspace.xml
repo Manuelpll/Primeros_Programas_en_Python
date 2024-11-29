@@ -4,14 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8bc82533-e74d-4bbc-82b7-da35a9d0cd4f" name="Changes" comment="27/11/24">
-      <change afterPath="$PROJECT_DIR$/Primeros_Programas_en Python/23_Modelo_de_Tablas_Peewee.py" afterDir="false" />
+    <list default="true" id="8bc82533-e74d-4bbc-82b7-da35a9d0cd4f" name="Changes" comment="28/11/24">
+      <change afterPath="$PROJECT_DIR$/Primeros_Programas_en Python/24_Modelo_Tablas_twitter.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/e2dd851f-2de1-4d45-a1d9-1b45bacdebd8.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/e2dd851f-2de1-4d45-a1d9-1b45bacdebd8.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/e2dd851f-2de1-4d45-a1d9-1b45bacdebd8/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/e2dd851f-2de1-4d45-a1d9-1b45bacdebd8/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/e2dd851f-2de1-4d45-a1d9-1b45bacdebd8/storage_v2/_src_/schema/mysql.osA4Bg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/e2dd851f-2de1-4d45-a1d9-1b45bacdebd8/storage_v2/_src_/schema/mysql.osA4Bg.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/e2dd851f-2de1-4d45-a1d9-1b45bacdebd8/storage_v2/_src_/schema/performance_schema.kIw0nw.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/e2dd851f-2de1-4d45-a1d9-1b45bacdebd8/storage_v2/_src_/schema/performance_schema.kIw0nw.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/e2dd851f-2de1-4d45-a1d9-1b45bacdebd8/storage_v2/_src_/schema/sys.zb4BAA.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/e2dd851f-2de1-4d45-a1d9-1b45bacdebd8/storage_v2/_src_/schema/sys.zb4BAA.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/66697b0d-f56f-4449-866a-38536f1bffd3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/66697b0d-f56f-4449-866a-38536f1bffd3/storage_v2/_src_/schema/main.uQUzAA.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/e2dd851f-2de1-4d45-a1d9-1b45bacdebd8/storage_v2/_src_/schema/information_schema.FNRwLQ.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/e2dd851f-2de1-4d45-a1d9-1b45bacdebd8/storage_v2/_src_/schema/sys.zb4BAA.zip" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/e2dd851f-2de1-4d45-a1d9-1b45bacdebd8/storage_v2/_src_/schema/sys.zb4BAA.zip" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -75,6 +74,7 @@
     "Python.21_Peewee_Prueba_Sqlite (1).executor": "Run",
     "Python.22_Peewee_Sqlite_Introducion.executor": "Run",
     "Python.23_Modelo_de_Tablas_Peewee.executor": "Run",
+    "Python.24_Modelo_Tablas_twitter (1).executor": "Run",
     "Python.2_Valor_Absoluto.executor": "Run",
     "Python.3_Sumas_del_0_al_100.executor": "Run",
     "Python.4_Maquina_de_Rellenar_Gasolina.executor": "Run",
@@ -85,8 +85,10 @@
     "Python.9_Serie_Fibonacci.executor": "Run",
     "Python.Ciclista.executor": "Run",
     "Python.Hola_Mundo.executor": "Run",
+    "Python.Modelo_Tablas_twitter.executor": "Run",
     "Python.Prueba.executor": "Run",
     "Python.__init__.executor": "Run",
+    "Python.app.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -110,76 +112,7 @@
     ]
   }
 }]]></component>
-  <component name="RunManager" selected="Python.23_Modelo_de_Tablas_Peewee">
-    <configuration name="21_Peewee_Prueba_SQL (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Primer_proyecto_de_Python" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Primeros_Programas_en Python" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Primeros_Programas_en Python/21_Peewee_Prueba_SQL.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="21_Peewee_Prueba_SQL" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Primer_proyecto_de_Python" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Primeros_Programas_en Python" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:\Users\aludam2\PycharmProjects\Primeros_Programas_en_Python\Primeros_Programas_en Python\21_Peewee_Prueba_SQL.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="21_Peewee_Prueba_Sqlite (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Primer_proyecto_de_Python" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Primeros_Programas_en Python" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Primeros_Programas_en Python/21_Peewee_Prueba_Sqlite.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.24_Modelo_Tablas_twitter (1)">
     <configuration name="22_Peewee_Sqlite_Introducion" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Primer_proyecto_de_Python" />
       <option name="ENV_FILES" value="" />
@@ -226,13 +159,82 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="24_Modelo_Tablas_twitter (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Primer_proyecto_de_Python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Primeros_Programas_en Python" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Primeros_Programas_en Python/24_Modelo_Tablas_twitter.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="24_Modelo_Tablas_twitter" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Primer_proyecto_de_Python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Primeros_Programas_en Python" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\aludam2\PycharmProjects\Primeros_Programas_en_Python\Primeros_Programas_en Python\24_Modelo_Tablas_twitter.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Primer_proyecto_de_Python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/twitter" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/twitter/app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.24_Modelo_Tablas_twitter (1)" />
+        <item itemvalue="Python.24_Modelo_Tablas_twitter" />
+        <item itemvalue="Python.app" />
         <item itemvalue="Python.23_Modelo_de_Tablas_Peewee" />
         <item itemvalue="Python.22_Peewee_Sqlite_Introducion" />
-        <item itemvalue="Python.21_Peewee_Prueba_SQL (1)" />
-        <item itemvalue="Python.21_Peewee_Prueba_SQL" />
-        <item itemvalue="Python.21_Peewee_Prueba_Sqlite (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -268,7 +270,8 @@
       <workItem from="1732174508897" duration="5572000" />
       <workItem from="1732698946829" duration="176000" />
       <workItem from="1732710155093" duration="259000" />
-      <workItem from="1732779301386" duration="5794000" />
+      <workItem from="1732779301386" duration="7013000" />
+      <workItem from="1732866518811" duration="5182000" />
     </task>
     <task id="LOCAL-00001" summary="Primera version">
       <option name="closed" value="true" />
@@ -398,7 +401,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732710395865</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="28/11/24">
+      <option name="closed" value="true" />
+      <created>1732785994235</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1732785994235</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -436,7 +447,8 @@
     <MESSAGE value="20/11/24" />
     <MESSAGE value="21/11/24" />
     <MESSAGE value="27/11/24" />
-    <option name="LAST_COMMIT_MESSAGE" value="27/11/24" />
+    <MESSAGE value="28/11/24" />
+    <option name="LAST_COMMIT_MESSAGE" value="28/11/24" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -458,8 +470,11 @@
     <SUITE FILE_PATH="coverage/Primeros_Programas_en_Python$7_Calculo_de_Diferentes_Areas_de_figuras.coverage" NAME="7_Calculo_de_Diferentes_Areas_de_figuras Coverage Results" MODIFIED="1730969479765" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Primeros_Programas_en Python" />
     <SUITE FILE_PATH="coverage/Primeros_Programas_en_Python$10_Creacion_Listas.coverage" NAME="10_Creacion_Listas Coverage Results" MODIFIED="1730966516338" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Primeros_Programas_en Python" />
     <SUITE FILE_PATH="coverage/Primeros_Programas_en_Python$22_Peewee_Sqlite_Introducion.coverage" NAME="22_Peewee_Sqlite_Introducion Coverage Results" MODIFIED="1732176374272" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Primeros_Programas_en Python" />
+    <SUITE FILE_PATH="coverage/Primeros_Programas_en_Python$app.coverage" NAME="app Coverage Results" MODIFIED="1732866684516" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/twitter" />
     <SUITE FILE_PATH="coverage/Primeros_Programas_en_Python$21_Peewee_Prueba.coverage" NAME="21_Peewee_Prueba Coverage Results" MODIFIED="1732101420198" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Primeros_Programas_en Python" />
+    <SUITE FILE_PATH="coverage/Primeros_Programas_en_Python$Modelo_Tablas_twitter.coverage" NAME="Modelo_Tablas_twitter Coverage Results" MODIFIED="1732867708883" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Primeros_Programas_en Python" />
     <SUITE FILE_PATH="coverage/Primeros_Programas_en_Python$16_5_Consultas_con_parametros.coverage" NAME="16.5_Consultas_con_parametros Coverage Results" MODIFIED="1731500157989" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Primeros_Programas_en Python" />
+    <SUITE FILE_PATH="coverage/Primeros_Programas_en_Python$24_Modelo_Tablas_twitter__1_.coverage" NAME="24_Modelo_Tablas_twitter (1) Coverage Results" MODIFIED="1732870414032" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Primeros_Programas_en Python" />
     <SUITE FILE_PATH="coverage/Primeros_Programas_en_Python$14_Inciacion_a_Objetos.coverage" NAME="14_Inciacion_a_Objetos Coverage Results" MODIFIED="1730969033026" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Primeros_Programas_en Python" />
     <SUITE FILE_PATH="coverage/Primer_proyecto_de_Python$6_Conversor_de_Diferentes_Monedas.coverage" NAME="6_Conversor_de_Diferentes_Monedas Coverage Results" MODIFIED="1708598221739" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Primeros_Programas_en Python" />
     <SUITE FILE_PATH="coverage/Primeros_Programas_en_Python$15_Calcular_letra_DNI_con_Clases.coverage" NAME="15_Calcular_letra_DNI_con_Clases Coverage Results" MODIFIED="1730969880345" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Primeros_Programas_en Python" />
@@ -480,7 +495,7 @@
     <SUITE FILE_PATH="coverage/Primeros_Programas_en_Python$9_Serie_Fibonacci.coverage" NAME="9_Serie_Fibonacci Coverage Results" MODIFIED="1730965152207" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Primeros_Programas_en Python" />
     <SUITE FILE_PATH="coverage/Primeros_Programas_en_Python$17_Cosulta_con_varios_parametros.coverage" NAME="17_Cosulta_con_varios_parametros Coverage Results" MODIFIED="1731500000398" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Primeros_Programas_en Python" />
     <SUITE FILE_PATH="coverage/Primeros_Programas_en_Python$21_Peewee_Prueba_Sqlite__1_.coverage" NAME="21_Peewee_Prueba_Sqlite (1) Coverage Results" MODIFIED="1732102975809" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Primeros_Programas_en Python" />
-    <SUITE FILE_PATH="coverage/Primeros_Programas_en_Python$23_Modelo_de_Tablas_Peewee.coverage" NAME="23_Modelo_de_Tablas_Peewee Coverage Results" MODIFIED="1732784409364" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Primeros_Programas_en Python" />
+    <SUITE FILE_PATH="coverage/Primeros_Programas_en_Python$23_Modelo_de_Tablas_Peewee.coverage" NAME="23_Modelo_de_Tablas_Peewee Coverage Results" MODIFIED="1732785292700" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Primeros_Programas_en Python" />
     <SUITE FILE_PATH="coverage/Primeros_Programas_en_Python$16_Acceso_a_Datos.coverage" NAME="16_Acceso_a_Datos Coverage Results" MODIFIED="1731053856833" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Primeros_Programas_en Python" />
   </component>
 </project>
