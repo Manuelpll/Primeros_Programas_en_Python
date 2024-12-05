@@ -27,10 +27,13 @@ class Message(BaseModel):
     user = ForeignKeyField(User, backref='messages')
     content = TextField()
     pub_date = DateTimeField()
+class Favorite(BaseModel):
+    user = ForeignKeyField(User, backref='favorites')
+    tweet= ForeignKeyField(Message, backref='favorites')
 
 def create_tables():
     with database:
-        database.create_tables([User, Relationship, Message])
+        database.create_tables(User,Relationship,Message,Favorite)
 
 def insertarInfo():
     User.insert_many([
@@ -47,6 +50,7 @@ def insertarInfo():
 
     Relationship.create(from_user=borja, to_user=david)
     Relationship.create(from_user=david, to_user=User.get(User.username == 'German'))
-
+ # query = Message.delete().where(Message.pub_date < datetime(2021, 5, 12))
 if __name__ == '__main__':
-  query = Message.delete().where(Message.pub_date < datetime(2021, 5, 12))
+   create_tables()
+   insertarInfo()
