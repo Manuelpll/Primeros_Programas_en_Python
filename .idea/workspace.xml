@@ -5,21 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8bc82533-e74d-4bbc-82b7-da35a9d0cd4f" name="Changes" comment="05/12/24 Clase de ampliacion sobre apis y plotly">
-      <change afterPath="$PROJECT_DIR$/Primeros_Programas_en Python/25_Conexion_MongoDB.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Primeros_Programas_en Python/26_Creacion_Nueva_coleccion.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Primeros_Programas_en Python/Base_de_Datos_inicio/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Primeros_Programas_en Python/Peewee/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Primer_proyecto_de_Python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Primer_proyecto_de_Python.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Primeros_Programas_en Python/16.5_Consultas_con_parametros.py" beforeDir="false" afterPath="$PROJECT_DIR$/Primeros_Programas_en Python/Base_de_Datos_inicio/16.5_Consultas_con_parametros.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Primeros_Programas_en Python/16_Acceso_a_Datos.py" beforeDir="false" afterPath="$PROJECT_DIR$/Primeros_Programas_en Python/Base_de_Datos_inicio/16_Acceso_a_Datos.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Primeros_Programas_en Python/17_Cosulta_con_varios_parametros.py" beforeDir="false" afterPath="$PROJECT_DIR$/Primeros_Programas_en Python/Base_de_Datos_inicio/17_Cosulta_con_varios_parametros.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Primeros_Programas_en Python/18_Insertar_registros.py" beforeDir="false" afterPath="$PROJECT_DIR$/Primeros_Programas_en Python/Base_de_Datos_inicio/18_Insertar_registros.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Primeros_Programas_en Python/19_Eliminar_registros.py" beforeDir="false" afterPath="$PROJECT_DIR$/Primeros_Programas_en Python/Base_de_Datos_inicio/19_Eliminar_registros.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Primeros_Programas_en Python/20_Modificar_Registros.py" beforeDir="false" afterPath="$PROJECT_DIR$/Primeros_Programas_en Python/Base_de_Datos_inicio/20_Modificar_Registros.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Primeros_Programas_en Python/21_Peewee_Prueba_SQL.py" beforeDir="false" afterPath="$PROJECT_DIR$/Primeros_Programas_en Python/Peewee/21_Peewee_Prueba_SQL.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Primeros_Programas_en Python/22_Peewee_Sqlite_Introducion.py" beforeDir="false" afterPath="$PROJECT_DIR$/Primeros_Programas_en Python/Peewee/22_Peewee_Sqlite_Introducion.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Primeros_Programas_en Python/23_Modelo_de_Tablas_Peewee.py" beforeDir="false" afterPath="$PROJECT_DIR$/Primeros_Programas_en Python/Peewee/23_Modelo_de_Tablas_Peewee.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Primeros_Programas_en Python/26_Creacion_Nueva_coleccion.py" beforeDir="false" afterPath="$PROJECT_DIR$/Primeros_Programas_en Python/26_Creacion_Nueva_coleccion.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +35,7 @@
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/Manuelpll/Primeros_Programas_en_Python.git&quot;,
-    &quot;accountId&quot;: &quot;939fc288-5fb3-4703-aeb8-ea6e99566906&quot;
+    &quot;accountId&quot;: &quot;56f7afdd-e98c-4325-b51b-c55ecab5b4cf&quot;
   }
 }</component>
   <component name="MarkdownSettingsMigration">
@@ -63,72 +53,72 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.10_Creacion_Listas.executor": "Run",
-    "Python.11_Calculo_letra_DNI.executor": "Run",
-    "Python.14_Inciacion_a_Objetos.executor": "Run",
-    "Python.15_Calcular_letra_DNI_con_Clases.executor": "Run",
-    "Python.16.5_Consultas_con_parametros.executor": "Run",
-    "Python.16_Acceso_a_Datos.executor": "Run",
-    "Python.17_Cosulta_con_varios_parametros.executor": "Run",
-    "Python.18_Insertar_registros.executor": "Run",
-    "Python.19_Eliminar_registros.executor": "Run",
-    "Python.1_Bascula.executor": "Run",
-    "Python.20_Modificar_Registros.executor": "Run",
-    "Python.21.5_Peewee_Prueba_SQL.executor": "Run",
-    "Python.21_Peewee_Prueba.executor": "Run",
-    "Python.21_Peewee_Prueba_SQL (1).executor": "Run",
-    "Python.21_Peewee_Prueba_Sqlite (1).executor": "Run",
-    "Python.22_Peewee_Sqlite_Introducion.executor": "Run",
-    "Python.23_Modelo_de_Tablas_Peewee.executor": "Run",
-    "Python.24_Modelo_Tablas_twitter (1).executor": "Run",
-    "Python.25_Conexion_MongoDB.executor": "Run",
-    "Python.26_Creacion_Nueva_coleccion.executor": "Run",
-    "Python.2_Valor_Absoluto.executor": "Run",
-    "Python.3_Sumas_del_0_al_100.executor": "Run",
-    "Python.4_Maquina_de_Rellenar_Gasolina.executor": "Run",
-    "Python.5_Calculo_de_posiciones.executor": "Run",
-    "Python.6_Conversor_de_Diferentes_Monedas.executor": "Run",
-    "Python.7_Calculo_de_Diferentes_Areas_de_figuras.executor": "Run",
-    "Python.8_Determinar_la_edad_de_la_persona.executor": "Run",
-    "Python.9_Serie_Fibonacci.executor": "Run",
-    "Python.Ampliacion_PythonHackerNewSubmissions.executor": "Run",
-    "Python.Ampliacion_PythonHackerNew_Submissions (1).executor": "Run",
-    "Python.Ampliacion_PythonHackersNews.executor": "Run",
-    "Python.Ampliacion_PythonRequest (1).executor": "Run",
-    "Python.Ampliacion_PythonRequest_Visual.executor": "Run",
-    "Python.Ampliacion_pythonRequest.executor": "Run",
-    "Python.Ciclista.executor": "Run",
-    "Python.Esfera.executor": "Run",
-    "Python.Hola_Mundo.executor": "Run",
-    "Python.Modelo_Tablas_twitter.executor": "Run",
-    "Python.Prueba.executor": "Run",
-    "Python.__init__.executor": "Run",
-    "Python.app.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/aludam2/Downloads/ipnd-project-rock-paper-scissors-master/ipnd-project-rock-paper-scissors-master",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.10_Creacion_Listas.executor&quot;: &quot;Run&quot;,
+    &quot;Python.11_Calculo_letra_DNI.executor&quot;: &quot;Run&quot;,
+    &quot;Python.14_Inciacion_a_Objetos.executor&quot;: &quot;Run&quot;,
+    &quot;Python.15_Calcular_letra_DNI_con_Clases.executor&quot;: &quot;Run&quot;,
+    &quot;Python.16.5_Consultas_con_parametros.executor&quot;: &quot;Run&quot;,
+    &quot;Python.16_Acceso_a_Datos.executor&quot;: &quot;Run&quot;,
+    &quot;Python.17_Cosulta_con_varios_parametros.executor&quot;: &quot;Run&quot;,
+    &quot;Python.18_Insertar_registros.executor&quot;: &quot;Run&quot;,
+    &quot;Python.19_Eliminar_registros.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1_Bascula.executor&quot;: &quot;Run&quot;,
+    &quot;Python.20_Modificar_Registros.executor&quot;: &quot;Run&quot;,
+    &quot;Python.21.5_Peewee_Prueba_SQL.executor&quot;: &quot;Run&quot;,
+    &quot;Python.21_Peewee_Prueba.executor&quot;: &quot;Run&quot;,
+    &quot;Python.21_Peewee_Prueba_SQL (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.21_Peewee_Prueba_Sqlite (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.22_Peewee_Sqlite_Introducion.executor&quot;: &quot;Run&quot;,
+    &quot;Python.23_Modelo_de_Tablas_Peewee.executor&quot;: &quot;Run&quot;,
+    &quot;Python.24_Modelo_Tablas_twitter (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.25_Conexion_MongoDB.executor&quot;: &quot;Run&quot;,
+    &quot;Python.26_Creacion_Nueva_coleccion.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2_Valor_Absoluto.executor&quot;: &quot;Run&quot;,
+    &quot;Python.3_Sumas_del_0_al_100.executor&quot;: &quot;Run&quot;,
+    &quot;Python.4_Maquina_de_Rellenar_Gasolina.executor&quot;: &quot;Run&quot;,
+    &quot;Python.5_Calculo_de_posiciones.executor&quot;: &quot;Run&quot;,
+    &quot;Python.6_Conversor_de_Diferentes_Monedas.executor&quot;: &quot;Run&quot;,
+    &quot;Python.7_Calculo_de_Diferentes_Areas_de_figuras.executor&quot;: &quot;Run&quot;,
+    &quot;Python.8_Determinar_la_edad_de_la_persona.executor&quot;: &quot;Run&quot;,
+    &quot;Python.9_Serie_Fibonacci.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ampliacion_PythonHackerNewSubmissions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ampliacion_PythonHackerNew_Submissions (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ampliacion_PythonHackersNews.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ampliacion_PythonRequest (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ampliacion_PythonRequest_Visual.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ampliacion_pythonRequest.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ciclista.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Esfera.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Hola_Mundo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Modelo_Tablas_twitter.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Prueba.executor&quot;: &quot;Run&quot;,
+    &quot;Python.__init__.executor&quot;: &quot;Run&quot;,
+    &quot;Python.app.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/aludam2/Downloads/ipnd-project-rock-paper-scissors-master/ipnd-project-rock-paper-scissors-master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "DatabaseDriversLRU": [
-      "oracle",
-      "mariadb",
-      "mysql",
-      "sqlite"
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;oracle&quot;,
+      &quot;mariadb&quot;,
+      &quot;mysql&quot;,
+      &quot;sqlite&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\aludam2\PycharmProjects\Primeros_Programas_en_Python\Primeros_Programas_en Python\Base_de_Datos_inicio" />
@@ -264,8 +254,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-deb605915726-JavaScript-PY-243.22562.180" />
-        <option value="bundled-python-sdk-85c76a3b01b3-9a18a617cbe4-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.22562.180" />
+        <option value="bundled-js-predefined-d6986cc7102b-e768b9ed790e-JavaScript-PY-243.21565.199" />
+        <option value="bundled-python-sdk-cab1f2013843-4ae2d6a61b08-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.21565.199" />
       </set>
     </attachedChunks>
   </component>
@@ -303,6 +293,7 @@
       <workItem from="1737016662918" duration="187000" />
       <workItem from="1738064038384" duration="1674000" />
       <workItem from="1739436396589" duration="1810000" />
+      <workItem from="1739812649198" duration="1916000" />
     </task>
     <task id="LOCAL-00001" summary="Primera version">
       <option name="closed" value="true" />
