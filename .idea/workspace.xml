@@ -4,12 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8bc82533-e74d-4bbc-82b7-da35a9d0cd4f" name="Changes" comment="05/12/24 Clase de ampliacion sobre apis y plotly">
+    <list default="true" id="8bc82533-e74d-4bbc-82b7-da35a9d0cd4f" name="Changes" comment="Ejemplo de Referencias en MongoDB">
+      <change afterPath="$PROJECT_DIR$/Primeros_Programas_en Python/Ejemplo_APIS.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Primeros_Programas_en Python/Ejemplo_APIS_Avanzado.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/Primer_proyecto_de_Python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Primer_proyecto_de_Python.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Primeros_Programas_en Python/26_Creacion_Nueva_coleccion.py" beforeDir="false" afterPath="$PROJECT_DIR$/Primeros_Programas_en Python/26_Creacion_Nueva_coleccion.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +38,9 @@
     &quot;accountId&quot;: &quot;56f7afdd-e98c-4325-b51b-c55ecab5b4cf&quot;
   }
 }</component>
+  <component name="HttpClientEndpointsTabState">
+    <option name="cachedRequestData" value="&lt;CachedHttpClientTabRequests&gt;&#10;  &lt;entry key=&quot;53e5776e7ceb7d1d03ef0a51ff26107adc3d9881&quot; value=&quot;###&amp;#10;GET http://localhost:5000/users/{{username}}/&quot; /&gt;&#10;&lt;/CachedHttpClientTabRequests&gt;" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -53,79 +56,81 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.10_Creacion_Listas.executor&quot;: &quot;Run&quot;,
-    &quot;Python.11_Calculo_letra_DNI.executor&quot;: &quot;Run&quot;,
-    &quot;Python.14_Inciacion_a_Objetos.executor&quot;: &quot;Run&quot;,
-    &quot;Python.15_Calcular_letra_DNI_con_Clases.executor&quot;: &quot;Run&quot;,
-    &quot;Python.16.5_Consultas_con_parametros.executor&quot;: &quot;Run&quot;,
-    &quot;Python.16_Acceso_a_Datos.executor&quot;: &quot;Run&quot;,
-    &quot;Python.17_Cosulta_con_varios_parametros.executor&quot;: &quot;Run&quot;,
-    &quot;Python.18_Insertar_registros.executor&quot;: &quot;Run&quot;,
-    &quot;Python.19_Eliminar_registros.executor&quot;: &quot;Run&quot;,
-    &quot;Python.1_Bascula.executor&quot;: &quot;Run&quot;,
-    &quot;Python.20_Modificar_Registros.executor&quot;: &quot;Run&quot;,
-    &quot;Python.21.5_Peewee_Prueba_SQL.executor&quot;: &quot;Run&quot;,
-    &quot;Python.21_Peewee_Prueba.executor&quot;: &quot;Run&quot;,
-    &quot;Python.21_Peewee_Prueba_SQL (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.21_Peewee_Prueba_Sqlite (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.22_Peewee_Sqlite_Introducion.executor&quot;: &quot;Run&quot;,
-    &quot;Python.23_Modelo_de_Tablas_Peewee.executor&quot;: &quot;Run&quot;,
-    &quot;Python.24_Modelo_Tablas_twitter (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.25_Conexion_MongoDB.executor&quot;: &quot;Run&quot;,
-    &quot;Python.26_Creacion_Nueva_coleccion.executor&quot;: &quot;Run&quot;,
-    &quot;Python.2_Valor_Absoluto.executor&quot;: &quot;Run&quot;,
-    &quot;Python.3_Sumas_del_0_al_100.executor&quot;: &quot;Run&quot;,
-    &quot;Python.4_Maquina_de_Rellenar_Gasolina.executor&quot;: &quot;Run&quot;,
-    &quot;Python.5_Calculo_de_posiciones.executor&quot;: &quot;Run&quot;,
-    &quot;Python.6_Conversor_de_Diferentes_Monedas.executor&quot;: &quot;Run&quot;,
-    &quot;Python.7_Calculo_de_Diferentes_Areas_de_figuras.executor&quot;: &quot;Run&quot;,
-    &quot;Python.8_Determinar_la_edad_de_la_persona.executor&quot;: &quot;Run&quot;,
-    &quot;Python.9_Serie_Fibonacci.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Ampliacion_PythonHackerNewSubmissions.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Ampliacion_PythonHackerNew_Submissions (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.Ampliacion_PythonHackersNews.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Ampliacion_PythonRequest (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.Ampliacion_PythonRequest_Visual.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Ampliacion_pythonRequest.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Ciclista.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Esfera.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Hola_Mundo.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Modelo_Tablas_twitter.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Prueba.executor&quot;: &quot;Run&quot;,
-    &quot;Python.__init__.executor&quot;: &quot;Run&quot;,
-    &quot;Python.app.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/aludam2/Downloads/ipnd-project-rock-paper-scissors-master/ipnd-project-rock-paper-scissors-master&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.10_Creacion_Listas.executor": "Run",
+    "Python.11_Calculo_letra_DNI.executor": "Run",
+    "Python.14_Inciacion_a_Objetos.executor": "Run",
+    "Python.15_Calcular_letra_DNI_con_Clases.executor": "Run",
+    "Python.16.5_Consultas_con_parametros.executor": "Run",
+    "Python.16_Acceso_a_Datos.executor": "Run",
+    "Python.17_Cosulta_con_varios_parametros.executor": "Run",
+    "Python.18_Insertar_registros.executor": "Run",
+    "Python.19_Eliminar_registros.executor": "Run",
+    "Python.1_Bascula.executor": "Run",
+    "Python.20_Modificar_Registros.executor": "Run",
+    "Python.21.5_Peewee_Prueba_SQL.executor": "Run",
+    "Python.21_Peewee_Prueba.executor": "Run",
+    "Python.21_Peewee_Prueba_SQL (1).executor": "Run",
+    "Python.21_Peewee_Prueba_Sqlite (1).executor": "Run",
+    "Python.22_Peewee_Sqlite_Introducion.executor": "Run",
+    "Python.23_Modelo_de_Tablas_Peewee.executor": "Run",
+    "Python.24_Modelo_Tablas_twitter (1).executor": "Run",
+    "Python.25_Conexion_MongoDB.executor": "Run",
+    "Python.26_Creacion_Nueva_coleccion.executor": "Run",
+    "Python.2_Valor_Absoluto.executor": "Run",
+    "Python.3_Sumas_del_0_al_100.executor": "Run",
+    "Python.4_Maquina_de_Rellenar_Gasolina.executor": "Run",
+    "Python.5_Calculo_de_posiciones.executor": "Run",
+    "Python.6_Conversor_de_Diferentes_Monedas.executor": "Run",
+    "Python.7_Calculo_de_Diferentes_Areas_de_figuras.executor": "Run",
+    "Python.8_Determinar_la_edad_de_la_persona.executor": "Run",
+    "Python.9_Serie_Fibonacci.executor": "Run",
+    "Python.Ampliacion_PythonHackerNewSubmissions.executor": "Run",
+    "Python.Ampliacion_PythonHackerNew_Submissions (1).executor": "Run",
+    "Python.Ampliacion_PythonHackersNews.executor": "Run",
+    "Python.Ampliacion_PythonRequest (1).executor": "Run",
+    "Python.Ampliacion_PythonRequest_Visual.executor": "Run",
+    "Python.Ampliacion_pythonRequest.executor": "Run",
+    "Python.Ciclista.executor": "Run",
+    "Python.Ejemplo_APIS.executor": "Run",
+    "Python.Ejemplo_APIS_Avanzado.executor": "Run",
+    "Python.Esfera.executor": "Run",
+    "Python.Hola_Mundo.executor": "Run",
+    "Python.Modelo_Tablas_twitter.executor": "Run",
+    "Python.Prueba.executor": "Run",
+    "Python.__init__.executor": "Run",
+    "Python.app.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/aludam2/Downloads/ipnd-project-rock-paper-scissors-master/ipnd-project-rock-paper-scissors-master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;DatabaseDriversLRU&quot;: [
-      &quot;oracle&quot;,
-      &quot;mariadb&quot;,
-      &quot;mysql&quot;,
-      &quot;sqlite&quot;
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "oracle",
+      "mariadb",
+      "mysql",
+      "sqlite"
     ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\aludam2\PycharmProjects\Primeros_Programas_en_Python\Primeros_Programas_en Python\Base_de_Datos_inicio" />
       <recent name="C:\Users\aludam2\PycharmProjects\Primeros_Programas_en_Python\Primeros_Programas_en Python\Peewee" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.25_Conexion_MongoDB">
+  <component name="RunManager" selected="Python.Ejemplo_APIS_Avanzado">
     <configuration name="25_Conexion_MongoDB" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Primer_proyecto_de_Python" />
       <option name="ENV_FILES" value="" />
@@ -172,7 +177,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Ampliacion_PythonHackerNew_Submissions (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Ampliacion_PythonHackersNews" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Primer_proyecto_de_Python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -186,7 +191,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Primeros_Programas_en Python/Ampliacion_PythonHackerNew_Submissions.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Primeros_Programas_en Python/Ampliacion_PythonHackersNews.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -195,7 +200,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Ampliacion_PythonHackerNew_Submissions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Ejemplo_APIS" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Primer_proyecto_de_Python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -209,7 +214,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:\Users\aludam2\PycharmProjects\Primeros_Programas_en_Python\Primeros_Programas_en Python\Ampliacion_PythonHackerNew_Submissions.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Primeros_Programas_en Python/Ejemplo_APIS.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -218,7 +223,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Esfera" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Ejemplo_APIS_Avanzado" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Primer_proyecto_de_Python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -232,7 +237,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Primeros_Programas_en Python/Esfera.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Primeros_Programas_en Python/Ejemplo_APIS_Avanzado.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -243,11 +248,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Ejemplo_APIS_Avanzado" />
+        <item itemvalue="Python.Ejemplo_APIS" />
+        <item itemvalue="Python.Ampliacion_PythonHackersNews" />
         <item itemvalue="Python.25_Conexion_MongoDB" />
         <item itemvalue="Python.26_Creacion_Nueva_coleccion" />
-        <item itemvalue="Python.Esfera" />
-        <item itemvalue="Python.Ampliacion_PythonHackerNew_Submissions (1)" />
-        <item itemvalue="Python.Ampliacion_PythonHackerNew_Submissions" />
       </list>
     </recent_temporary>
   </component>
@@ -294,6 +299,8 @@
       <workItem from="1738064038384" duration="1674000" />
       <workItem from="1739436396589" duration="1810000" />
       <workItem from="1739812649198" duration="1916000" />
+      <workItem from="1740729631341" duration="196000" />
+      <workItem from="1740846977210" duration="1098000" />
     </task>
     <task id="LOCAL-00001" summary="Primera version">
       <option name="closed" value="true" />
@@ -447,7 +454,15 @@
       <option name="project" value="LOCAL" />
       <updated>1733390584382</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Ejemplo de Referencias en MongoDB">
+      <option name="closed" value="true" />
+      <created>1740729792627</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1740729792627</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -488,7 +503,8 @@
     <MESSAGE value="28/11/24" />
     <MESSAGE value="29/11/24" />
     <MESSAGE value="05/12/24 Clase de ampliacion sobre apis y plotly" />
-    <option name="LAST_COMMIT_MESSAGE" value="05/12/24 Clase de ampliacion sobre apis y plotly" />
+    <MESSAGE value="Ejemplo de Referencias en MongoDB" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ejemplo de Referencias en MongoDB" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -502,49 +518,51 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Primer_proyecto_de_Python$7_Calculo_de_Diferentes_Areas_de_figuras.coverage" NAME="7_Calculo_de_Diferentes_Areas_de_figuras Coverage Results" MODIFIED="1708773802513" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Primeros_Programas_en Python" />
-    <SUITE FILE_PATH="coverage/Primer_proyecto_de_Python$3_Sumas_del_0_al_100.coverage" NAME="3_Sumas_del_0_al_100 Coverage Results" MODIFIED="1708534657496" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Primeros_Programas_en Python" />
-    <SUITE FILE_PATH="coverage/Primeros_Programas_en_Python$21_Peewee_Prueba_SQL__1_.coverage" NAME="21_Peewee_Prueba_SQL (1) Coverage Results" MODIFIED="1732104202479" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Primeros_Programas_en Python" />
-    <SUITE FILE_PATH="coverage/Primer_proyecto_de_Python$8_Determinar_la_edad_de_la_persona.coverage" NAME="8_Determinar_la_edad_de_la_persona Coverage Results" MODIFIED="1708774851001" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Primeros_Programas_en Python" />
-    <SUITE FILE_PATH="coverage/Primeros_Programas_en_Python$18_Insertar_registros.coverage" NAME="18_Insertar_registros Coverage Results" MODIFIED="1731660745062" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Primeros_Programas_en Python" />
-    <SUITE FILE_PATH="coverage/Primeros_Programas_en_Python$7_Calculo_de_Diferentes_Areas_de_figuras.coverage" NAME="7_Calculo_de_Diferentes_Areas_de_figuras Coverage Results" MODIFIED="1730969479765" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Primeros_Programas_en Python" />
-    <SUITE FILE_PATH="coverage/Primeros_Programas_en_Python$10_Creacion_Listas.coverage" NAME="10_Creacion_Listas Coverage Results" MODIFIED="1730966516338" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Primeros_Programas_en Python" />
-    <SUITE FILE_PATH="coverage/Primeros_Programas_en_Python$Ampliacion_PythonHackersNews.coverage" NAME="Ampliacion_PythonHackersNews Coverage Results" MODIFIED="1733389660741" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Primeros_Programas_en Python" />
-    <SUITE FILE_PATH="coverage/Primeros_Programas_en_Python$22_Peewee_Sqlite_Introducion.coverage" NAME="22_Peewee_Sqlite_Introducion Coverage Results" MODIFIED="1732176374272" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Primeros_Programas_en Python" />
-    <SUITE FILE_PATH="coverage/Primeros_Programas_en_Python$app.coverage" NAME="app Coverage Results" MODIFIED="1732866684516" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/twitter" />
-    <SUITE FILE_PATH="coverage/Primeros_Programas_en_Python$Ampliacion_pythonRequest.coverage" NAME="Ampliacion_pythonRequest Coverage Results" MODIFIED="1733385533923" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Primeros_Programas_en Python" />
-    <SUITE FILE_PATH="coverage/Primeros_Programas_en_Python$21_Peewee_Prueba.coverage" NAME="21_Peewee_Prueba Coverage Results" MODIFIED="1732101420198" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Primeros_Programas_en Python" />
-    <SUITE FILE_PATH="coverage/Primeros_Programas_en_Python$Modelo_Tablas_twitter.coverage" NAME="Modelo_Tablas_twitter Coverage Results" MODIFIED="1732867708883" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Primeros_Programas_en Python" />
-    <SUITE FILE_PATH="coverage/Primeros_Programas_en_Python$25_Conexion_MongoDB.coverage" NAME="25_Conexion_MongoDB Coverage Results" MODIFIED="1739438189659" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Primeros_Programas_en Python" />
-    <SUITE FILE_PATH="coverage/Primeros_Programas_en_Python$16_5_Consultas_con_parametros.coverage" NAME="16.5_Consultas_con_parametros Coverage Results" MODIFIED="1731500157989" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Primeros_Programas_en Python" />
-    <SUITE FILE_PATH="coverage/Primeros_Programas_en_Python$24_Modelo_Tablas_twitter__1_.coverage" NAME="24_Modelo_Tablas_twitter (1) Coverage Results" MODIFIED="1733310921735" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Primeros_Programas_en Python" />
-    <SUITE FILE_PATH="coverage/Primeros_Programas_en_Python$Ampliacion_PythonRequest__1_.coverage" NAME="Ampliacion_PythonRequest (1) Coverage Results" MODIFIED="1733386480458" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Primeros_Programas_en Python" />
-    <SUITE FILE_PATH="coverage/Primeros_Programas_en_Python$14_Inciacion_a_Objetos.coverage" NAME="14_Inciacion_a_Objetos Coverage Results" MODIFIED="1730969033026" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Primeros_Programas_en Python" />
-    <SUITE FILE_PATH="coverage/Primer_proyecto_de_Python$6_Conversor_de_Diferentes_Monedas.coverage" NAME="6_Conversor_de_Diferentes_Monedas Coverage Results" MODIFIED="1708598221739" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Primeros_Programas_en Python" />
-    <SUITE FILE_PATH="coverage/Primeros_Programas_en_Python$15_Calcular_letra_DNI_con_Clases.coverage" NAME="15_Calcular_letra_DNI_con_Clases Coverage Results" MODIFIED="1730969880345" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Primeros_Programas_en Python" />
-    <SUITE FILE_PATH="coverage/Primeros_Programas_en_Python$Ampliacion_PythonRequest_Visual.coverage" NAME="Ampliacion_PythonRequest_Visual Coverage Results" MODIFIED="1733388844236" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Primeros_Programas_en Python" />
-    <SUITE FILE_PATH="coverage/Primer_proyecto_de_Python$2_Valor_Absoluto.coverage" NAME="2_Valor_Absoluto Coverage Results" MODIFIED="1708533756647" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Primeros_Programas_en Python" />
-    <SUITE FILE_PATH="coverage/Primeros_Programas_en_Python$6_Conversor_de_Diferentes_Monedas.coverage" NAME="6_Conversor_de_Diferentes_Monedas Coverage Results" MODIFIED="1730893846344" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Primeros_Programas_en Python" />
-    <SUITE FILE_PATH="coverage/Primer_proyecto_de_Python$5_Calculo_de_posiciones.coverage" NAME="5_Calculo_de_posiciones Coverage Results" MODIFIED="1708596403117" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Primeros_Programas_en Python" />
-    <SUITE FILE_PATH="coverage/Primeros_Programas_en_Python$Ampliacion_PythonHackerNew_Submissions__1_.coverage" NAME="Ampliacion_PythonHackerNew_Submissions (1) Coverage Results" MODIFIED="1733390181131" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Primeros_Programas_en Python" />
-    <SUITE FILE_PATH="coverage/Primeros_Programas_en_Python$11_Calculo_letra_DNI.coverage" NAME="11_Calculo_letra_DNI Coverage Results" MODIFIED="1730966843167" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Primeros_Programas_en Python" />
-    <SUITE FILE_PATH="coverage/Primeros_Programas_en_Python$21_5_Peewee_Prueba_SQL.coverage" NAME="21.5_Peewee_Prueba_SQL Coverage Results" MODIFIED="1732103287125" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Primeros_Programas_en Python" />
-    <SUITE FILE_PATH="coverage/Primer_proyecto_de_Python$1_Bascula.coverage" NAME="1_Bascula Coverage Results" MODIFIED="1708533485464" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Primeros_Programas_en Python" />
-    <SUITE FILE_PATH="coverage/Primeros_Programas_en_Python$Ampliacion_PythonHackerNewSubmissions.coverage" NAME="Ampliacion_PythonHackerNewSubmissions Coverage Results" MODIFIED="1733389799156" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Primeros_Programas_en Python" />
-    <SUITE FILE_PATH="coverage/Primeros_Programas_en_Python$20_Modificar_Registros.coverage" NAME="20_Modificar_Registros Coverage Results" MODIFIED="1731500608925" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Primeros_Programas_en Python" />
-    <SUITE FILE_PATH="coverage/Primeros_Programas_en_Python$Ciclista.coverage" NAME="Ciclista Coverage Results" MODIFIED="1730970073494" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Primeros_Programas_en Python" />
-    <SUITE FILE_PATH="coverage/Primer_proyecto_de_Python$Hola_Mundo.coverage" NAME="Hola_Mundo Coverage Results" MODIFIED="1708366153558" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Primeros_Programas_en Python" />
-    <SUITE FILE_PATH="coverage/Primeros_Programas_en_Python$Esfera.coverage" NAME="Esfera Coverage Results" MODIFIED="1738064106585" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Primeros_Programas_en Python" />
-    <SUITE FILE_PATH="coverage/Primeros_Programas_en_Python$19_Eliminar_registros.coverage" NAME="19_Eliminar_registros Coverage Results" MODIFIED="1731500518289" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Primeros_Programas_en Python" />
-    <SUITE FILE_PATH="coverage/Primeros_Programas_en_Python$3_Sumas_del_0_al_100.coverage" NAME="3_Sumas_del_0_al_100 Coverage Results" MODIFIED="1730965062381" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Primeros_Programas_en Python" />
-    <SUITE FILE_PATH="coverage/Primer_proyecto_de_Python$__init__.coverage" NAME="__init__ Coverage Results" MODIFIED="1708365917973" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Primeros_Programas_en Python" />
-    <SUITE FILE_PATH="coverage/Primer_proyecto_de_Python$4_Maquina_de_Rellenar_Gasolina.coverage" NAME="4_Maquina_de_Rellenar_Gasolina Coverage Results" MODIFIED="1708536780584" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Primeros_Programas_en Python" />
     <SUITE FILE_PATH="coverage/Primer_proyecto_de_Python$Prueba.coverage" NAME="Prueba Coverage Results" MODIFIED="1708774101749" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Primeros_Programas_en Python" />
-    <SUITE FILE_PATH="coverage/Primeros_Programas_en_Python$9_Serie_Fibonacci.coverage" NAME="9_Serie_Fibonacci Coverage Results" MODIFIED="1730965152207" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Primeros_Programas_en Python" />
-    <SUITE FILE_PATH="coverage/Primeros_Programas_en_Python$17_Cosulta_con_varios_parametros.coverage" NAME="17_Cosulta_con_varios_parametros Coverage Results" MODIFIED="1731500000398" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Primeros_Programas_en Python" />
+    <SUITE FILE_PATH="coverage/Primeros_Programas_en_Python$Esfera.coverage" NAME="Esfera Coverage Results" MODIFIED="1738064106585" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Primeros_Programas_en Python" />
+    <SUITE FILE_PATH="coverage/Primeros_Programas_en_Python$21_5_Peewee_Prueba_SQL.coverage" NAME="21.5_Peewee_Prueba_SQL Coverage Results" MODIFIED="1732103287125" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Primeros_Programas_en Python" />
+    <SUITE FILE_PATH="coverage/Primeros_Programas_en_Python$10_Creacion_Listas.coverage" NAME="10_Creacion_Listas Coverage Results" MODIFIED="1730966516338" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Primeros_Programas_en Python" />
+    <SUITE FILE_PATH="coverage/Primeros_Programas_en_Python$Ampliacion_PythonHackerNewSubmissions.coverage" NAME="Ampliacion_PythonHackerNewSubmissions Coverage Results" MODIFIED="1733389799156" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Primeros_Programas_en Python" />
+    <SUITE FILE_PATH="coverage/Primeros_Programas_en_Python$14_Inciacion_a_Objetos.coverage" NAME="14_Inciacion_a_Objetos Coverage Results" MODIFIED="1730969033026" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Primeros_Programas_en Python" />
+    <SUITE FILE_PATH="coverage/Primer_proyecto_de_Python$2_Valor_Absoluto.coverage" NAME="2_Valor_Absoluto Coverage Results" MODIFIED="1708533756647" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Primeros_Programas_en Python" />
+    <SUITE FILE_PATH="coverage/Primeros_Programas_en_Python$25_Conexion_MongoDB.coverage" NAME="25_Conexion_MongoDB Coverage Results" MODIFIED="1739438189659" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Primeros_Programas_en Python" />
+    <SUITE FILE_PATH="coverage/Primeros_Programas_en_Python$7_Calculo_de_Diferentes_Areas_de_figuras.coverage" NAME="7_Calculo_de_Diferentes_Areas_de_figuras Coverage Results" MODIFIED="1730969479765" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Primeros_Programas_en Python" />
+    <SUITE FILE_PATH="coverage/Primeros_Programas_en_Python$Ampliacion_PythonRequest__1_.coverage" NAME="Ampliacion_PythonRequest (1) Coverage Results" MODIFIED="1733386480458" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Primeros_Programas_en Python" />
+    <SUITE FILE_PATH="coverage/Primer_proyecto_de_Python$5_Calculo_de_posiciones.coverage" NAME="5_Calculo_de_posiciones Coverage Results" MODIFIED="1708596403117" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Primeros_Programas_en Python" />
+    <SUITE FILE_PATH="coverage/Primer_proyecto_de_Python$8_Determinar_la_edad_de_la_persona.coverage" NAME="8_Determinar_la_edad_de_la_persona Coverage Results" MODIFIED="1708774851001" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Primeros_Programas_en Python" />
+    <SUITE FILE_PATH="coverage/Primeros_Programas_en_Python$Ampliacion_pythonRequest.coverage" NAME="Ampliacion_pythonRequest Coverage Results" MODIFIED="1733385533923" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Primeros_Programas_en Python" />
+    <SUITE FILE_PATH="coverage/Primeros_Programas_en_Python$24_Modelo_Tablas_twitter__1_.coverage" NAME="24_Modelo_Tablas_twitter (1) Coverage Results" MODIFIED="1733310921735" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Primeros_Programas_en Python" />
+    <SUITE FILE_PATH="coverage/Primer_proyecto_de_Python$1_Bascula.coverage" NAME="1_Bascula Coverage Results" MODIFIED="1708533485464" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Primeros_Programas_en Python" />
+    <SUITE FILE_PATH="coverage/Primeros_Programas_en_Python$Ejemplo_APIS.coverage" NAME="Ejemplo_APIS Coverage Results" MODIFIED="1740847443324" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Primeros_Programas_en Python" />
+    <SUITE FILE_PATH="coverage/Primeros_Programas_en_Python$16_5_Consultas_con_parametros.coverage" NAME="16.5_Consultas_con_parametros Coverage Results" MODIFIED="1731500157989" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Primeros_Programas_en Python" />
+    <SUITE FILE_PATH="coverage/Primeros_Programas_en_Python$22_Peewee_Sqlite_Introducion.coverage" NAME="22_Peewee_Sqlite_Introducion Coverage Results" MODIFIED="1732176374272" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Primeros_Programas_en Python" />
+    <SUITE FILE_PATH="coverage/Primeros_Programas_en_Python$Ampliacion_PythonRequest_Visual.coverage" NAME="Ampliacion_PythonRequest_Visual Coverage Results" MODIFIED="1733388844236" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Primeros_Programas_en Python" />
+    <SUITE FILE_PATH="coverage/Primeros_Programas_en_Python$Ciclista.coverage" NAME="Ciclista Coverage Results" MODIFIED="1730970073494" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Primeros_Programas_en Python" />
+    <SUITE FILE_PATH="coverage/Primeros_Programas_en_Python$Ampliacion_PythonHackersNews.coverage" NAME="Ampliacion_PythonHackersNews Coverage Results" MODIFIED="1740847194806" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Primeros_Programas_en Python" />
+    <SUITE FILE_PATH="coverage/Primer_proyecto_de_Python$__init__.coverage" NAME="__init__ Coverage Results" MODIFIED="1708365917973" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Primeros_Programas_en Python" />
+    <SUITE FILE_PATH="coverage/Primer_proyecto_de_Python$6_Conversor_de_Diferentes_Monedas.coverage" NAME="6_Conversor_de_Diferentes_Monedas Coverage Results" MODIFIED="1708598221739" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Primeros_Programas_en Python" />
+    <SUITE FILE_PATH="coverage/Primer_proyecto_de_Python$Hola_Mundo.coverage" NAME="Hola_Mundo Coverage Results" MODIFIED="1708366153558" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Primeros_Programas_en Python" />
     <SUITE FILE_PATH="coverage/Primeros_Programas_en_Python$21_Peewee_Prueba_Sqlite__1_.coverage" NAME="21_Peewee_Prueba_Sqlite (1) Coverage Results" MODIFIED="1732102975809" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Primeros_Programas_en Python" />
-    <SUITE FILE_PATH="coverage/Primeros_Programas_en_Python$23_Modelo_de_Tablas_Peewee.coverage" NAME="23_Modelo_de_Tablas_Peewee Coverage Results" MODIFIED="1732785292700" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Primeros_Programas_en Python" />
-    <SUITE FILE_PATH="coverage/Primeros_Programas_en_Python$16_Acceso_a_Datos.coverage" NAME="16_Acceso_a_Datos Coverage Results" MODIFIED="1731053856833" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Primeros_Programas_en Python" />
+    <SUITE FILE_PATH="coverage/Primeros_Programas_en_Python$app.coverage" NAME="app Coverage Results" MODIFIED="1732866684516" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/twitter" />
+    <SUITE FILE_PATH="coverage/Primer_proyecto_de_Python$3_Sumas_del_0_al_100.coverage" NAME="3_Sumas_del_0_al_100 Coverage Results" MODIFIED="1708534657496" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Primeros_Programas_en Python" />
+    <SUITE FILE_PATH="coverage/Primer_proyecto_de_Python$4_Maquina_de_Rellenar_Gasolina.coverage" NAME="4_Maquina_de_Rellenar_Gasolina Coverage Results" MODIFIED="1708536780584" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Primeros_Programas_en Python" />
+    <SUITE FILE_PATH="coverage/Primeros_Programas_en_Python$11_Calculo_letra_DNI.coverage" NAME="11_Calculo_letra_DNI Coverage Results" MODIFIED="1730966843167" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Primeros_Programas_en Python" />
+    <SUITE FILE_PATH="coverage/Primeros_Programas_en_Python$21_Peewee_Prueba_SQL__1_.coverage" NAME="21_Peewee_Prueba_SQL (1) Coverage Results" MODIFIED="1732104202479" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Primeros_Programas_en Python" />
+    <SUITE FILE_PATH="coverage/Primeros_Programas_en_Python$17_Cosulta_con_varios_parametros.coverage" NAME="17_Cosulta_con_varios_parametros Coverage Results" MODIFIED="1731500000398" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Primeros_Programas_en Python" />
+    <SUITE FILE_PATH="coverage/Primeros_Programas_en_Python$19_Eliminar_registros.coverage" NAME="19_Eliminar_registros Coverage Results" MODIFIED="1731500518289" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Primeros_Programas_en Python" />
     <SUITE FILE_PATH="coverage/Primeros_Programas_en_Python$26_Creacion_Nueva_coleccion.coverage" NAME="26_Creacion_Nueva_coleccion Coverage Results" MODIFIED="1739437773254" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Primeros_Programas_en Python" />
+    <SUITE FILE_PATH="coverage/Primer_proyecto_de_Python$7_Calculo_de_Diferentes_Areas_de_figuras.coverage" NAME="7_Calculo_de_Diferentes_Areas_de_figuras Coverage Results" MODIFIED="1708773802513" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Primeros_Programas_en Python" />
+    <SUITE FILE_PATH="coverage/Primeros_Programas_en_Python$Ejemplo_APIS_Avanzado.coverage" NAME="Ejemplo_APIS_Avanzado Coverage Results" MODIFIED="1740847664938" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Primeros_Programas_en Python" />
+    <SUITE FILE_PATH="coverage/Primeros_Programas_en_Python$6_Conversor_de_Diferentes_Monedas.coverage" NAME="6_Conversor_de_Diferentes_Monedas Coverage Results" MODIFIED="1730893846344" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Primeros_Programas_en Python" />
+    <SUITE FILE_PATH="coverage/Primeros_Programas_en_Python$15_Calcular_letra_DNI_con_Clases.coverage" NAME="15_Calcular_letra_DNI_con_Clases Coverage Results" MODIFIED="1730969880345" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Primeros_Programas_en Python" />
+    <SUITE FILE_PATH="coverage/Primeros_Programas_en_Python$Modelo_Tablas_twitter.coverage" NAME="Modelo_Tablas_twitter Coverage Results" MODIFIED="1732867708883" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Primeros_Programas_en Python" />
+    <SUITE FILE_PATH="coverage/Primeros_Programas_en_Python$Ampliacion_PythonHackerNew_Submissions__1_.coverage" NAME="Ampliacion_PythonHackerNew_Submissions (1) Coverage Results" MODIFIED="1733390181131" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Primeros_Programas_en Python" />
+    <SUITE FILE_PATH="coverage/Primeros_Programas_en_Python$21_Peewee_Prueba.coverage" NAME="21_Peewee_Prueba Coverage Results" MODIFIED="1732101420198" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Primeros_Programas_en Python" />
+    <SUITE FILE_PATH="coverage/Primeros_Programas_en_Python$9_Serie_Fibonacci.coverage" NAME="9_Serie_Fibonacci Coverage Results" MODIFIED="1730965152207" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Primeros_Programas_en Python" />
+    <SUITE FILE_PATH="coverage/Primeros_Programas_en_Python$18_Insertar_registros.coverage" NAME="18_Insertar_registros Coverage Results" MODIFIED="1731660745062" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Primeros_Programas_en Python" />
+    <SUITE FILE_PATH="coverage/Primeros_Programas_en_Python$16_Acceso_a_Datos.coverage" NAME="16_Acceso_a_Datos Coverage Results" MODIFIED="1731053856833" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Primeros_Programas_en Python" />
+    <SUITE FILE_PATH="coverage/Primeros_Programas_en_Python$3_Sumas_del_0_al_100.coverage" NAME="3_Sumas_del_0_al_100 Coverage Results" MODIFIED="1730965062381" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Primeros_Programas_en Python" />
+    <SUITE FILE_PATH="coverage/Primeros_Programas_en_Python$20_Modificar_Registros.coverage" NAME="20_Modificar_Registros Coverage Results" MODIFIED="1731500608925" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Primeros_Programas_en Python" />
+    <SUITE FILE_PATH="coverage/Primeros_Programas_en_Python$23_Modelo_de_Tablas_Peewee.coverage" NAME="23_Modelo_de_Tablas_Peewee Coverage Results" MODIFIED="1732785292700" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Primeros_Programas_en Python" />
   </component>
 </project>
